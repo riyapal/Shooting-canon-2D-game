@@ -1,0 +1,31 @@
+commands to be run for executing:
+
+- make
+-./sample2D
+
+
+Keyboard Controls:
+	A: rotate canon above
+	B: Rotate canon below
+	F: increase speed
+	S: Reduce speed
+
+	up arrow  : zoom in
+	down arrow : zoom out
+	spacebar to shoot
+	left arrow : pan left
+	right arrow : pan right
+
+Mouse Controls:
+
+	scroll up : zoom in
+	scroll down : zoom out
+	right click and drag right : pan left
+	right click and drag left : pan right
+
+balls disappear on collision
+score displayed on terminal
+can shoot only once either the ball rolls out of window or stops due to friction.
+
+3 targets.
+1 point per target
